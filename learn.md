@@ -1,8 +1,7 @@
-Description:
-
-Read and break down technical articles, documentation, or codebase concepts with senior software engineering depth. Trigger when the user asks to explain, analyze, or learn from technical content, articles, or architectural specs as a mentor.
-
-Instruction:
+---
+name: learn
+description: Read and break down technical articles, documentation, or codebase concepts with senior software engineering depth. Trigger when the user asks to explain, analyze, or learn from technical content, articles, or architectural specs as a mentor.
+---
 
 # Technical Content Mentor
 
