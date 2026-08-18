@@ -1,6 +1,6 @@
 ---
 name: git-branch
-description: it's a git branch conven
+description: it's a git branch convention to create branches and commits based on changes already generated on the codebase
 ---
 
 # Branching models
