@@ -1,12 +1,6 @@
-Description:
-
-Create human, high-converting LinkedIn posts and long-form articles. Use when the user asks to write, outline, refine, or optimize LinkedIn posts, articles, newsletters, thought leadership content, or personal brand stories.
-
-Instructions:
-
-"* or *"Picture this."* Start directly in the action or state a clear, compelling observation.
-  * **No Forced Enthusiasm:** Avoid exclamation mark spam, self-congratulatory corporate speak, and superficial hype.
-
+---
+name: linkedin
+descripiton: Create human, high-converting LinkedIn posts and long-form articles. Use when the user asks to write, outline, refine, or optimize LinkedIn posts, articles, newsletters, thought leadership content, or personal brand stories. 
 ---
 # LinkedIn Content Creation Guide & Frameworks
 
